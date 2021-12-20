@@ -38,17 +38,61 @@ h4{
     background:rgb(55, 218, 104);
     border-radius: 2px;
 }
+
 p{
     position: absolute;
     width: 75px;
     height: 19px;
     left: 365px;
     top: 31px;
+    font-family: monospace;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
     line-height: 19px;
-
+    color: #393939;
 }
 
+.nomer1{
+    position: absolute;
+    width: 75px;
+    height: 19px;
+    left: 365px;
+    top: 31px;
+    font-family: monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
 
+.nomer2{
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 365px;
+    top: 54px;
+    font-family: monospace;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    color: #393939;
+}
+.fecebook{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 491px;
+    top: 42px;
+    opacity: 0.5;
+}
+.instagram{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 521px;
+    top: 42px;
+    opacity: 0.5;
+}
