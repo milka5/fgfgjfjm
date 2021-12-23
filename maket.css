@@ -82,11 +82,11 @@ p{
 }
 .fecebook{
     position: absolute;
-    width: 20px;
-    height: 20px;
-    left: 491px;
-    top: 42px;
-    opacity: 0.5;
+    left: 25.78%;
+    right: 24.21%;
+    top: 0%;
+    bottom: 0%;
+    background:black;
 }
 .instagram{
     position: absolute;
@@ -95,4 +95,12 @@ p{
     left: 521px;
     top: 42px;
     opacity: 0.5;
+}
+.youtube{
+    position: absolute;
+    left: 3.08%;
+    right: 3.17%;
+    top: 16.3%;
+    bottom: 18.06%;
+    background:black;
 }
